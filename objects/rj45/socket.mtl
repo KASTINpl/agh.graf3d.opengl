@@ -1,0 +1,20 @@
+# Blender MTL File: 'Kopia.blend'
+# Material Count: 2
+
+newmtl Gniazdo
+Ns 96.078431
+Ka 0.0000 0.0000 0.0000
+Kd 0.7686 0.3451 0.8824
+Ks 0.3500 0.3500 0.3500
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.010
+Ns 96.078431
+Ka 0.0000 0.0000 0.0000
+Kd 0.7765 0.8824 0.3412
+Ks 0.3500 0.3500 0.3500
+Ni 1.000000
+d 1.000000
+illum 2
